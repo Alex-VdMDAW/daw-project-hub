@@ -1,11 +1,12 @@
 /* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    color: #333;
-    background-color: #f4f4f9;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    padding: 1.2rem;
+    background-color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 /* Cabecera y presentación */
@@ -25,6 +26,18 @@ main {
     max-width: 800px;
     margin: 2rem auto;
     padding: 0 1rem;
+}
+
+.parrafo-desarrollo {
+    border-left: 6px solid #3498db; /* Azul */
+}
+
+.parrafo-despliegue {
+    border-left: 6px solid #2ecc71; /* Verde */
+}
+
+.parrafo-colaboracion {
+    border-left: 6px solid #e67e22; /* Naranja */
 }
 
 /* Pie de página */
