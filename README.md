@@ -22,3 +22,7 @@ Para visualizar y probar la página web en tu entorno local, sigue estos pasos:
 3. **Abrir el sitio web en el navegador:**
    - Puedes hacer doble clic directamente sobre el archivo index.html desde el explorador de archivos de tu sistema operativo.
    - O bien, si usas Visual Studio Code, haz clic derecho sobre index.html y selecciona Open with Live Server.
+
+## Readme actualizado desde la interfaz de github
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit potenti pretium per, dapibus parturient eleifend maecenas neque laoreet sagittis euismod cursus, magna integer convallis rutrum turpis ultrices dictum praesent aliquam. Morbi fusce donec condimentum litora luctus lacus volutpat eleifend dignissim et, etiam fames porttitor vulputate nostra nullam vitae fermentum. Scelerisque ad libero ultricies natoque imperdiet felis neque, lobortis lacus nascetur consequat in hac leo, tortor facilisi dui non vehicula vestibulum.
