@@ -27,6 +27,7 @@ main {
     padding: 0 1rem;
 }
 
+/* Ajuste de contraste para accesibilidad */
 main h3 {
     color: #1a202c;
     font-size: 1.25rem;
